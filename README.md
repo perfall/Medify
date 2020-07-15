@@ -1,7 +1,7 @@
 # Medify
 Applies a median filter temporally on a video to make for cool effects.
 
-![](misc/gifs/tda_animation.gif)
+![](misc/animation.gif)
 
 
 Clone the repository and install the requirements.
